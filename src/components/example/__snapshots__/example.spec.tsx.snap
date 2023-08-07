@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`[VitestTestBroken Component]: Should render 1`] = `"<!--qv --><div><!--qv --><button data-test=\\"button\\" type=\\"button\\"><!--qv q:key q:sref=1 q:s-->hide button<!--/qv--></button><!--/qv--></div><!--/qv-->"`;
+
+exports[`[VitestTestBroken Component]: Should render 2`] = `"<!--qv --><div><span>bbye</span><button data-test=\\"button\\" type=\\"button\\"><!--qv q:key q:sref=1 q:s-->hide button<!--/qv--></button><!--/qv--></div><!--/qv-->"`;
