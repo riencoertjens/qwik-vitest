@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<Checkbox /> > Should render indeterminate option  1`] = `"<!--qv --><input type=\\"checkbox\\" class=\\"appearance-none border rounded-sm w-4 h-4 checked:bg-check-mark-icon-white indeterminate:bg-minus-icon-white bg-no-repeat bg-center disabled:border-bgcolor-button-disabled disabled:checked:bg-bgcolor-button-disabled disabled:indeterminate:bg-bgcolor-button-disabled checked:bg-bgcolor-button-default indeterminate:bg-bgcolor-button-default border-bordercolor-button\\"><!--/qv-->"`;
+
+exports[`<Checkbox /> > Should render primary variant 1`] = `"<!--qv --><input type=\\"checkbox\\" class=\\"appearance-none border rounded-sm w-4 h-4 checked:bg-check-mark-icon-white indeterminate:bg-minus-icon-white bg-no-repeat bg-center disabled:border-bgcolor-button-disabled disabled:checked:bg-bgcolor-button-disabled disabled:indeterminate:bg-bgcolor-button-disabled checked:bg-bgcolor-button-default indeterminate:bg-bgcolor-button-default border-bordercolor-button\\" checked=\\"\\"><!--/qv-->"`;
